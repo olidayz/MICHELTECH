@@ -1,0 +1,294 @@
+{
+  "topics": [
+    {
+      "id": "immigration",
+      "name": "Immigration",
+      "keywords": ["immigration", "migrants", "frontières", "asile", "rapatriement", "expulsion", "Dublin", "immigrés"],
+      "why_it_hits": "Always polarizing. French people feel ignored by elite who impose without asking.",
+      "angles": [
+        "They're coming and nobody asked",
+        "We can't afford it financially",
+        "We can't absorb culturally",
+        "Crime link",
+        "They get more than French",
+        "Brussels imposing on us"
+      ],
+      "emotion": "Frustration + Fear",
+      "virality_score": 10
+    },
+    {
+      "id": "purchasing_power",
+      "name": "Pouvoir d'achat / Cost of Living",
+      "keywords": ["pouvoir d'achat", "inflation", "salaire", "prix", "essence", "électricité", "loyer", "boulangerie", "baguette"],
+      "why_it_hits": "Everyone feels it. Concrete, relatable, not abstract.",
+      "angles": [
+        "Prices up, wages flat",
+        "Baguette now €1.50",
+        "EDF bills insane",
+        "Rent impossible",
+        "They don't feel it"
+      ],
+      "emotion": "Anger + Resentment",
+      "virality_score": 10
+    },
+    {
+      "id": "securite",
+      "name": "Sécurité / Crime",
+      "keywords": ["sécurité", "criminalité", "viol", "meurtre", "vol", "agression", "délinquance", "racket", "stups"],
+      "why_it_hits": "Fear is primal. When you don't feel safe, nothing else matters.",
+      "angles": [
+        "Crime everywhere",
+        "Police constrained",
+        "Criminals have more rights than victims",
+        "Youth delinquency exploding",
+        "No consequence culture"
+      ],
+      "emotion": "Fear + Anger",
+      "virality_score": 9
+    },
+    {
+      "id": "retraites",
+      "name": "Retraites / Pensions",
+      "keywords": ["retraite", "pension", "réforme", "64 ans", "cotisations", "minimum vieillesse"],
+      "why_it_hits": "Everyone will retire. Everyone fears running out of money.",
+      "angles": [
+        "Work longer for less",
+        "They raised it to 64",
+        "Macron forced it with 49.3",
+        "It's not fair"
+      ],
+      "emotion": "Anger + Fear",
+      "virality_score": 9
+    },
+    {
+      "id": "macron_elite",
+      "name": "Macron / Elite Out of Touch",
+      "keywords": ["Macron", "élite", "déconnecté", "Rothschild", "cave", "pharaon", "Jupiter", "Mona Lisa"],
+      "why_it_hits": "Macron is the symbol of everything wrong. Easy target, emotional trigger.",
+      "angles": [
+        "Out of touch quotes",
+        "Rich guy problems",
+        "He doesn't live like us",
+        "Condescending",
+        "Arrogant"
+      ],
+      "emotion": "Contempt + Anger",
+      "virality_score": 10
+    },
+    {
+      "id": "islamisme",
+      "name": "Islamisme / Radical Islam",
+      "keywords": ["islamisme", "islamiste", "radical", "terrorisme", "attentat", "FQ", "fréquentation", "mosquée", "voile", "burqa"],
+      "why_it_hits": "Existential fear. Identity crisis. Always under the surface.",
+      "angles": [
+        "They're taking over",
+        "No integration",
+        "Brussels blind",
+        "Our values under attack"
+      ],
+      "emotion": "Fear + Anger",
+      "virality_score": 9
+    },
+    {
+      "id": "ue_brussels",
+      "name": "UE / Bruxelles / Sovereignty",
+      "keywords": ["UE", "Europe", "Bruxelles", "souveraineté", "indépendance", "règlement", "directive", "euro"],
+      "why_it_hits": "Anti-EU sentiment growing. People feel ruled by unelected bureaucrats.",
+      "angles": [
+        "Unelected rulers",
+        "Regulations strangling us",
+        "France can't decide",
+        "Euro = weak",
+        "They don't ask us"
+      ],
+      "emotion": "Frustration + National Pride",
+      "virality_score": 8
+    },
+    {
+      "id": "education",
+      "name": "Éducation / École",
+      "keywords": ["école", "éducation", "lycée", "collège", "réforme", "bac", "contrôle continu", "violence", "dz"],
+      "why_it_hits": "Parents care about kids. System failing, kids getting dumber/violent.",
+      "angles": [
+        "Level dropping",
+        "Violence up",
+        "No discipline",
+        "Woke agenda",
+        "Teachers can't teach"
+      ],
+      "emotion": "Fear + Anger",
+      "virality_score": 8
+    },
+    {
+      "id": "sante",
+      "name": "Santé / Healthcare",
+      "keywords": ["santé", "hôpital", "médecin", "désert médical", "urgences", "infirmière", "tarification"],
+      "why_it_hits": "Everyone needs healthcare. System collapsing, wait times insane.",
+      "angles": [
+        "No doctors left",
+        "Waiting rooms insane",
+        "Nurses overworked",
+        "They're closing hospitals",
+        "Private vs public"
+      ],
+      "emotion": "Fear + Frustration",
+      "virality_score": 8
+    },
+    {
+      "id": "logement",
+      "name": "Logement / Housing",
+      "keywords": ["logement", "loyer", "immobilier", "acheter", "appartement", "crise", "sans abri", "SDF"],
+      "why_it_hits": "Housing = survival. Young people locked out forever.",
+      "angles": [
+        "Can't afford anything",
+        "Prices doubled in 10 years",
+        "Homeless everywhere",
+        "Airbnb ruining cities",
+        "Young vs old unfairness"
+      ],
+      "emotion": "Desperation + Anger",
+      "virality_score": 9
+    },
+    {
+      "id": "justice",
+      "name": "Justice / Justice System",
+      "keywords": ["justice", "tribunal", "prison", "peine", "dj", "condamnation", "impunité", "victime"],
+      "why_it_hits": "Criminals walk free, victims ignored. Deep unfairness feeling.",
+      "angles": [
+        "Criminals get off easy",
+        "Victims forgotten",
+        "Judges too soft",
+        "Repeat offenders",
+        "No accountability"
+      ],
+      "emotion": "Anger + Injustice",
+      "virality_score": 8
+    },
+    {
+      "id": "media_bias",
+      "name": "Media Bias / Fake News",
+      "keywords": ["médias", "BFMTV", "Le Monde", "désinformation", "censure", "woke", "propagande"],
+      "why_it_hits": "People don't trust media. Feeling they're being lied to.",
+      "angles": [
+        "They only show one side",
+        "They ignore real news",
+        "Censoring right",
+        "The narrative"
+      ],
+      "emotion": "Distrust + Paranoia",
+      "virality_score": 7
+    },
+    {
+      "id": "woke_cancel",
+      "name": "Woke / Cancel Culture",
+      "keywords": ["woke", "cancel", "lgbt", "genre", "trans", "progressiste", "france"],
+      "why_it_hits": "Cultural war. People tired of being told what's acceptable.",
+      "angles": [
+        "Crazy left",
+        "They want to erase men/women",
+        "Kids confused",
+        "Normal is now wrong"
+      ],
+      "emotion": "Anger + Defiance",
+      "virality_score": 7
+    },
+    {
+      "id": "chomage",
+      "name": "Chomage / Unemployment",
+      "keywords": ["chomage", "chômeur", "emploi", "travail", "recrutement", "cdi", "cdd"],
+      "why_it_hits": "Work = dignity. French proud of work ethic. Unemployed feel shamed.",
+      "angles": [
+        "No jobs for young",
+        "Companies can't hire",
+        "Too much welfare",
+        "Work doesn't pay"
+      ],
+      "emotion": "Frustration + Shame",
+      "virality_score": 7
+    },
+    {
+      "id": "impots",
+      "name": "Impots / Taxes",
+      "keywords": ["impôt", "taxe", "cotisation", "fiscalité", "prélèvement", "-IR", "TVA"],
+      "why_it_hits": "French taxed to death. Everyone hates taxes.",
+      "angles": [
+        "Highest in EU",
+        "Work taxed to death",
+        "They waste it",
+        "Rich don't pay"
+      ],
+      "emotion": "Anger + Resentment",
+      "virality_score": 8
+    },
+    {
+      "id": "rural",
+      "name": "Rural / Cities vs Countryside",
+      "keywords": ["rural", "campagne", "ville", "désert", "services", "bureau de Poste", "gare", "école"],
+      "why_it_hits": "Rural France feels forgotten. Paris vs province divide.",
+      "angles": [
+        "Everything closing",
+        "Paris gets everything",
+        "No services",
+        "Dead villages"
+      ],
+      "emotion": "Neglect + Resentment",
+      "virality_score": 7
+    },
+    {
+      "id": "pauvrete",
+      "name": "Pauvreté / Poverty",
+      "keywords": ["pauvreté", "précarité", "rme", "sans domicile", "sdf", "aide"],
+      "why_it_hits": "Rich country, poor people. Irony.",
+      "angles": [
+        "Working poor",
+        "Kids hungry",
+        "Rich get richer",
+        "System failing"
+      ],
+      "emotion": "Sadness + Anger",
+      "virality_score": 7
+    },
+    {
+      "id": "retraites_enfants",
+      "name": "Enfants / Family Policy",
+      "keywords": ["enfant", "famille", "naissance", "garde", "crèche", "allocations", "APA"],
+      "why_it_hits": "Birth rate collapse. Future anxiety.",
+      "angles": [
+        "No kids being born",
+        "Can't afford kids",
+        "Crèches impossible",
+        "Future doomed"
+      ],
+      "emotion": "Fear + Sadness",
+      "virality_score": 7
+    },
+    {
+      "id": "transports",
+      "name": "Transports / Transport",
+      "keywords": ["transport", "sncf", "train", "rer", "métro", "bus", "retard", "grève", "tarif"],
+      "why_it_hits": "Everyone uses transport. Strikes always hit.",
+      "angles": [
+        "Always strikes",
+        "Expensive and late",
+        "SNCF a mess",
+        "No alternatives"
+      ],
+      "emotion": "Frustration + Anger",
+      "virality_score": 6
+    },
+    {
+      "id": "environnement",
+      "name": "Environnement / Climate",
+      "keywords": ["climat", "écologie", "environnement", "transition", "vert", "zécol"],
+      "why_it_hits": "When it hits, it's huge. But can be polarizing.",
+      "angles": [
+        "Hypocrisy of elites",
+        "Cost of transition",
+        "Not the priority",
+        "Nuclear vs green"
+      ],
+      "emotion": "Skepticism + Irony",
+      "virality_score": 6
+    }
+  ]
+}
